@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.8"
 dependencies = [
   "torch",
-  "chronos==2.2.2",
+  "chronos-forecasting==2.2.2",
   "huggingface_hub",
 ]
 
